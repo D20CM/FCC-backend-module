@@ -5,6 +5,7 @@
   },
   "main": "server.js",
   "author": "Scott Brown",
+  "description": "My project repo for working through the freeCodeCamp.org backend and microservices module.",
   "scripts": {
     "start": "node server.js"
   },
